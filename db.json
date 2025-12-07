@@ -1,10 +1,18 @@
-{  "users": [
+{
+  "users": [
     {
-    "id": 1,
-     "name": "shprot",
-     "surname": "cat",
-     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_m5sbWgMiLd4hlHY5M_PNvXroaLxSjcPeg&s",
-     "balance": 20303
+      "id": 1,
+      "name": "shprot",
+      "surname": "cat",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_m5sbWgMiLd4hlHY5M_PNvXroaLxSjcPeg&s",
+      "balance": 20303
+    },
+    {
+      "id": 2,
+      "name": "dog",
+      "surname": "wiener",
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx7nklibsfidS4ZR3x2fHBlcOOvf_HdzCVw&s",
+      "balance": 10000
     }
-    ]
+  ]
 }
