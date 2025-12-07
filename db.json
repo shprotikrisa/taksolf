@@ -1,5 +1,12 @@
 {
-    "users": [
-        
-    ]
+  "users": [
+    {
+    "id": 2,
+    "name": "dog",
+    "surname": "wiener",
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx7nklibsfidS4ZR3x2fHBlcOOvf_HdzCVw&s",
+    "balance": 10000
+  }
+  ]
+
 }
