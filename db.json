@@ -1,5 +1,10 @@
-{
-    "users": [
-        
+{  "users": [
+    {
+    "id": 1,
+     "name": "shprot",
+     "surname": "cat",
+     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_m5sbWgMiLd4hlHY5M_PNvXroaLxSjcPeg&s",
+     "balance": 20303
+    }
     ]
 }
