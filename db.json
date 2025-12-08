@@ -1,0 +1,12 @@
+{
+     "users": 
+     [
+    {
+      "id": 4,
+      "name": "shprot",
+      "surname": "wiener",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_m5sbWgMiLd4hlHY5M_PNvXroaLxSjcPeg&s",
+      "balance": 234567
+    }
+    ]
+}
